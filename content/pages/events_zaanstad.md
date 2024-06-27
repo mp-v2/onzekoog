@@ -20,9 +20,9 @@ The Zaandam region is known for its lively cultural scene and hosts a variety of
 
 ### Bullekerk Concert Series
 - **Description:** A series of classical music concerts held in the historic Bullekerk, showcasing local and international musicians.
-- **Location:** [Bullekerk](https://www.debullekerk.nl/)
+- **Location:** [Bullekerk](https://www.bullekerk.nl/)
 - **Frequency:** Monthly
-- **More Info:** [Bullekerk Concert Series](https://www.debullekerk.nl/concerten/)
+- **More Info:** [Bullekerk Concert Series](https://www.bullekerk.nl/agenda/)
 
 ### Zaanstad Food Festival
 - **Description:** A festival featuring a variety of food trucks, local vendors, and live entertainment, celebrating the culinary diversity of the region.
@@ -50,8 +50,8 @@ The Zaandam region is known for its lively cultural scene and hosts a variety of
 
 ### Hembrug Happening
 - **Description:** A cultural festival held at the historic Hembrugterrein, featuring art, music, theater, and food.
-- **Location:** [Hembrugterrein](https://www.hembrugterrein.nl/)
-- **Frequency:** Annually in August
+- **Location:** [Hembrugterrein](https://www.hembrugterrein.com/)
+- **Frequency:** Annually in August (now closed)
 - **More Info:** [Hembrug Happening](https://www.hembrugterrein.nl/hembrug-happening/)
 
 ### Local Farmers' Markets
