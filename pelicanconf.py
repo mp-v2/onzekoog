@@ -3,6 +3,7 @@ SITENAME = 'OnzeKoog'
 SITEURL = ""
 
 PATH = "content"
+#STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/Amsterdam'
 
@@ -30,6 +31,7 @@ MENUITEMS = [
     ('Playgrounds', '/playgrounds.html'),
     ('Swimming', '/swimming-areas.html'),
     ('Dog parks', '/dog-parks.html'),
+    ('News', '/local-news.html'),
     ('Noticeboards', '/noticeboards.html'),
 ]
 
@@ -37,6 +39,31 @@ MENUITEMS = [
 #PAGE_PATHS = ['/pages']
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
+
+
+# SEO plugin
+# https://github.com/pelican-plugins/seo
+SEO_REPORT = True  # SEO report is enabled by default
+SEO_ENHANCER = True  # SEO enhancer is disabled by default
+SEO_ENHANCER_OPEN_GRAPH = False # Subfeature of SEO enhancer
+SEO_ENHANCER_TWITTER_CARDS = False # Subfeature of SEO enhancer
+
+SEO_ARTICLES_LIMIT = 10
+SEO_PAGES_LIMIT = 10
+
+# Deadlink checker plugin
+# https://github.com/pelican-plugins/deadlinks
+DEADLINK_VALIDATION = True
+
+DEADLINK_OPTS = {
+    'archive':  False,
+    'classes': ['custom-class1', 'disabled'],
+    'labels':   True,
+    'timeout_duration_ms': 1000,
+    'timeout_is_error':    False,
+}
+
+
 
 # Other settings...
 
@@ -49,13 +76,17 @@ LINKS = (
 )
 
 # Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
+# SOCIAL = (
+#     ("You can add links in your config file", "#"),
+#     ("Another social link", "#"),
+# )
 
 PLUGIN_PATHS = ['plugins', 'solar-plugins']
-PLUGINS = ['addressable_paragraphs', 'assets', 'dither', 'neighbors', 'page_metadata', 'related_posts', 'representative_image']
+PLUGINS = [
+    'addressable_paragraphs', 'assets', 'neighbors', 'page_metadata', 'related_posts', 'representative_image', 
+    #'seo', 
+    #'deadlinks'
+    ]
 
 
 DEFAULT_PAGINATION = False
