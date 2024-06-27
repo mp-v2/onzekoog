@@ -1,4 +1,5 @@
-For developing this site: https://docs.getpelican.com/en/latest/quickstart.html
+For developing this site: 
+https://docs.getpelican.com/en/latest/quickstart.html
 
 For seeing a demo version while editing:
 pelican --listen --autoreload
