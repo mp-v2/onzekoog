@@ -23,6 +23,7 @@ DISPLAY_PAGES_ON_MENU = False
 # Choose which pages go into the menu
 MENUITEMS = [
     ('Home', '/'),
+    ('Video Tour', '/video-tour.html'),
     ('History', '/history.html'),
     ('Events (de Koog)', '/cultural-events-in-de-koog.html'),
     ('Events (Zaanstad)', '/cultural-events-in-zaanstad.html'),
@@ -83,7 +84,7 @@ LINKS = (
 
 PLUGIN_PATHS = ['plugins', 'solar-plugins']
 PLUGINS = [
-    'addressable_paragraphs', 'assets', 'neighbors', 'page_metadata', 'related_posts', 'representative_image', 
+    'addressable_paragraphs', 'assets', 'neighbors', 'page_metadata', 'related_posts', 'representative_image',
     #'seo', 
     #'deadlinks'
     ]

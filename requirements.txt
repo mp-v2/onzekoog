@@ -17,6 +17,7 @@ mdurl==0.1.2
 ordered-set==4.1.0
 pelican==4.9.1
 pelican-seo==1.2.2
+pelican-youtube==0.2.1
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
 pytz==2024.1
