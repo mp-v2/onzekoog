@@ -1,5 +1,23 @@
+# Structure
 
-# Basic edits:
+The `main` branch contains:
+- the raw website content (in Markdown)
+- the website format (in Python, using Pelican)
+
+The `gh-pages` branch contains
+- the generated website (in HTML)
+
+This is then published to GitHub pages with a custom domain.
+
+
+# Editing the website:
+
+1) Pull the `main` branch locally (unless you're editing in the browser mode)
+`git pull`
+2) Make your edits, then commit the changes
+`git commit -a -m "description of my changes"
+3) Edit on the `main` branch (or another branch and then merge into the main branch)
+2) Generate the HTML content and publish to the `gh-pages` branch
 
 For developing this site: 
 https://docs.getpelican.com/en/latest/quickstart.html
