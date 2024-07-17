@@ -75,7 +75,7 @@ DEADLINK_OPTS = {
 
 # Blogroll
 LINKS = (
-    ("Zaanstad Council", "https://www.zaanstad.nl/"),
+    ("Zaanstad Municipality", "https://www.zaanstad.nl/"),
     ("Zaan Wiki", "https://www.zaanwiki.nl/"),
 )
 
