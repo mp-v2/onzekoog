@@ -19,9 +19,10 @@ This is then published to GitHub pages with a custom domain.
 3) Generate the HTML content in the output directory
 `pelican content -o output -s pelicanconf.py`
 4) Push changes to the remote `main` branch
-git push
+`git push`
 4) Publish website HTML to the `gh-pages` branch
-git push origin gh-pages
+`ghp-import output -b gh-pages`
+`git push origin gh-pages`
 
 For developing this site: 
 https://docs.getpelican.com/en/latest/quickstart.html
