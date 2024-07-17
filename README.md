@@ -16,11 +16,11 @@ This is then published to GitHub pages with a custom domain.
 `git pull`
 2) Make your edits, then commit the changes
 `git commit -a -m "description of my changes"
-3) Generate the HTML content in the output directory
-`pelican content -o output -s pelicanconf.py`
-4) Push changes to the remote `main` branch
+3) Push raw website content changes and formatting to the remote `main` branch
 `git push`
-4) Publish website HTML to the `gh-pages` branch
+4) Generate the HTML content in the output directory
+`pelican content -o output -s pelicanconf.py`
+5) Push generated website HTML to the `gh-pages` branch on GitHub
 `ghp-import output -b gh-pages`
 `git push origin gh-pages`
 
