@@ -7,24 +7,34 @@ The `main` branch contains:
 The `gh-pages` branch contains
 - the generated website (in HTML)
 
-This is then published to GitHub pages with a custom domain.
+The `gh-pages` branch is then published to GitHub pages with a custom domain.
 
 
 # Editing the website:
 
 1) Pull the `main` branch locally (unless you're editing in the browser mode)
+
 `git pull`
+
 2) Make your edits, then commit the changes
+
 `git commit -a -m "description of my changes"
+
 3) Push raw website content changes and formatting to the remote `main` branch
+
 `git push`
+
 4) Generate the HTML content in the output directory
+
 `pelican content -o output -s pelicanconf.py`
-5) Push generated website HTML to the `gh-pages` branch on GitHub
+
+5) Push generated website HTML to the `gh-pages` branch and then that branch to GitHub
+
 `ghp-import output -b gh-pages`
 `git push origin gh-pages`
 
-For developing this site: 
+
+# For developing this site: 
 https://docs.getpelican.com/en/latest/quickstart.html
 
 For seeing a demo version while editing:
