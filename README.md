@@ -8,9 +8,14 @@ For seeing a demo version while editing:
 `pelican --listen --autoreload`
 https://mirekdlugosz.com/blog/2021/improving-pelican-website-development-loop/
 
+# For publishing changes to the website:
+
 For uploading to github pages we use ghp-import
-`ghp-import output -b gh-pages`
-`git push origin gh-pages`
+```
+pelican content -o output -s pelicanconf.py
+ghp-import output -b gh-pages
+git push origin gh-pages
+```
 https://github.com/getpelican/pelican/blob/main/docs/tips.rst#publishing-a-project-site-to-github-pages-from-a-branch
 
 
