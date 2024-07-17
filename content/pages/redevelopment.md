@@ -4,12 +4,17 @@ Category: Information
 
 # Developments in Koog aan de Zaan
 See here about local developments.
-Do you want to follow developments yourself or subscribe to recieve emails? See [here](https://www.overheid.nl/berichten-over-uw-buurt/rondom-uw-woonadres/bekijk-alle-berichten?id=c57cd2e2-9d14-4ce9-83f0-a08f3cc69fc8&utm_campaign=20240622&utm_source=boub_mo&utm_medium=email&utm_term=0479)
+Do you want to follow developments yourself or subscribe to recieve emails? See [overheid.nl](https://www.overheid.nl/berichten-over-uw-buurt/rondom-uw-woonadres/bekijk-alle-berichten?id=c57cd2e2-9d14-4ce9-83f0-a08f3cc69fc8&utm_campaign=20240622&utm_source=boub_mo&utm_medium=email&utm_term=0479)
 
 ### Kogerkerk Greenification
 The Koger Church (Kogerkerk), a historical landmark in Koog aan de Zaan, is undergoing revitalization efforts. The project includes enhancing the church and its surrounding square to create a more attractive public space with increased greenery and improved accessibility.
 
 - **More Info:** [Vergroenen Zaanstad](https://buitengewoon.zaanstad.nl/home/vergroenen)
+
+### Social housing renewal
+The social housing around Koog aan de Zaan is being completely renewed over the coming years. There are 500 social homes which will receive renovations including new foundations, insulation, solar panels, heat pumps, new roofing, and new gardens.
+
+- **More Info:** [Oudkoog.nl](https://oudkoog.nl/)
 
 ### Playground Redevelopment
 Several playgrounds in Koog aan de Zaan are being redeveloped to create safer and more enjoyable spaces for children and families:
