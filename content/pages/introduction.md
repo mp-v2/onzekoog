@@ -1,6 +1,11 @@
 Title: Introduction
 Date: 2024-06-26 12:26
 Category: Information
+Description: Where is Koog aan de Zaan and what is it known for?
+Slug: introduction
+Lang: en
+Translation: false
+
 
 ## Welcome to Koog aan de Zaan
 

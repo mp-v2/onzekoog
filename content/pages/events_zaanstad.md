@@ -1,10 +1,11 @@
 Title: Cultural Events in Zaanstad
 Date: 2024-06-26 12:26
 Category: Culture
+Description: Cultural events happening in Zaanstad
+Slug: cultural-events-in-zaanstad
 Lang: en
 Translation: false
-Slug: cultural-events-in-zaanstad
-Summary: Cultural events happening in Zaanstad
+
 
 ## Regular Events in the Zaandam Region
 

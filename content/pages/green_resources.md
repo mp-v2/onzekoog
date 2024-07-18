@@ -1,10 +1,11 @@
 Title: Green Resources
 Date: 2024-06-26 12:26
 Category: Information
+Description: What resources are available to residents in Koog aan de Zaan to improve their surroundings?
+Slug: green-resources
 Lang: en
 Translation: false
-Slug: green-resources
-Summary: What resources are available to residents in Koog aan de Zaan to improve their surroundings?
+
 
 ## Adopt a Public Green Space
 You as a resident can adopt public green spaces:

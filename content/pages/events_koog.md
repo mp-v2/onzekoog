@@ -1,10 +1,11 @@
 Title: Cultural Events in de Koog
 Date: 2024-06-26 12:26
 Category: Culture
+Description: Cultural events happening in Koog aan de Zaan and surrounding areas
+Slug: cultural-events-in-de-koog
 Lang: en
 Translation: false
-Slug: cultural-events-in-de-koog
-Summary: Cultural events happening in Koog aan de Zaan and surrounding areas
+
 
 ## Regular Cultural Events in Koog aan de Zaan
 

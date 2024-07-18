@@ -1,6 +1,11 @@
 Title: Local News
 Date: 2024-06-27
 Category: Information
+Description: What local news sources are there for Koog aan de Zaan?
+Slug: local-news
+Lang: en
+Translation: false
+
 
 ## De Orkaan
 [De Orkaan](https://www.deorkaan.nl/) is a local news platform focusing on providing timely and relevant news for the Zaanstreek region. They pride themselves on being a community-driven outlet where readers contribute tips, photos, documents, and stories. De Orkaan aims to be a critical, independent, and informative voice in local media.

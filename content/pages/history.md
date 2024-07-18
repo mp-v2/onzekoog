@@ -1,6 +1,10 @@
 Title: History
 Date: 2024-05-31 13:58
 Category: History
+Description: WHat is the history of Koog aan de Zaan? A basic summary with links to further reading.
+Slug: history
+Lang: en
+Translation: false
 
 
 Originally sources from [Zaanstad Council](https://lintendijkenpaden.zaanstad.nl/over-de-zaanse-linten-dijken-paden/koog-aan-de-zaan)
