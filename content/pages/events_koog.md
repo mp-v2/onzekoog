@@ -50,12 +50,6 @@ Koog aan de Zaan hosts a variety of cultural events throughout the year, fosteri
 - **Frequency:** Weekly
 - **More Info:** [De Fabriek Events](https://www.defabriek.nl/programma/)
 
-### Community Art Exhibitions
-- **Description:** Showcases of artworks by local artists, held in various community centers and galleries.
-- **Location:** Various locations in Koog aan de Zaan
-- **Frequency:** Monthly
-- **More Info:** Check local community boards and the [Zaanstad website](https://www.zaanstad.nl/) for details.
-
 ### Historical Walks
 - **Description:** Guided walks exploring the rich history and heritage of Koog aan de Zaan.
 - **Location:** Starting from the Zaanse Schans visitor center

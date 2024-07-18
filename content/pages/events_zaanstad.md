@@ -6,12 +6,6 @@ Category: Culture
 
 The Zaandam region is known for its lively cultural scene and hosts a variety of events throughout the year. Here are some of the regular events you can enjoy in the wider Zaandam area:
 
-### Zaanse Schans Cheese Market
-- **Description:** Experience traditional Dutch cheese markets with cheese weighing, folklore performances, and local delicacies.
-- **Location:** [Zaanse Schans](https://www.dezaanseschans.nl/en/)
-- **Frequency:** Weekly during the summer months
-- **More Info:** [Zaanse Schans Cheese Market](https://www.dezaanseschans.nl/en/cheese-market/)
-
 ### Czaar Peter Festival
 - **Description:** A festival celebrating the historical connections between Zaandam and Russian Tsar Peter the Great, featuring cultural performances, historical reenactments, and markets.
 - **Location:** Various locations in Zaandam
