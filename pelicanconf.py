@@ -36,6 +36,7 @@ MENUITEMS = [
     ('Swimming', '/swimming-areas.html'),
     ('Dog parks', '/dog-parks.html'),
     ('News', '/local-news.html'),
+    ('Local Organisations', '/local-organisations.html'),
     ('Noticeboards', '/noticeboards.html'),
 ]
 
