@@ -60,4 +60,4 @@ The Zaandam region is known for its lively cultural scene and hosts a variety of
 - **Frequency:** Weekly
 - **More Info:** Check the [Zaanstad website](https://www.zaanstad.nl/) for updates.
 
-These events highlight the vibrant cultural life of the Zaandam region, offering something for everyone. Stay informed through local announcements and the Zaanstad website for more details and updates on these and other events.
+

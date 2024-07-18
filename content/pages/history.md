@@ -7,7 +7,8 @@ Originally sources from [Zaanstad Council](https://lintendijkenpaden.zaanstad.nl
 
 
 Koog aan de Zaan probably originated in the 16th century near the Kogerhem, where there was also a lock. An inn (now De Waakbaarheid) was built next to that lock in the 17th century. South of the Kogerhem, a church was built in the 17th century, around which a small neighborhood grew up. Koog aan de Zaan was long connected to Zaandijk by sharing a school, church, cemetery and poor and orphan care.
-Church neighborhood
+
+## Church neighborhood
 
 In 1543 there were about 30 inhabitants. At the end of the 16th century this number increased. They were probably engaged in inland fishing, inland navigation and the reception of travelers. The village got a small center because a church neighborhood developed around the church.
 
@@ -31,3 +32,10 @@ Koog aan de Zaan had a comb structure until the end of the 19th century. There w
 ## Highway crossed ribbon
 
 At the beginning of the 20th century, the village was expanded with new working-class neighborhoods, especially south of Kogerhem. The old structure of the paths was built around, so that the ridge structure remained. The construction of the A8 motorway in the 20th century caused the structure of the long dike to be crossed.
+
+
+Read more Koog aan de Zaan history from:
+- [Historische Vereniging Koog-Zaandijk](https://www.historischeverenigingkoogzaandijk.nl/elementor/2022/09/01/historie-koog-a-d-zaan/) - Koog-Zaandijk Historical Association
+- [Zaan Wiki](https://www.zaanwiki.nl/encyclopedie/doku.php?id=koog&rev=1599693033)
+- [Koog aan de Zaan from DBNL.org](https://www.dbnl.org/tekst/sten009monu11_01/sten009monu11_01_0095.php)
+

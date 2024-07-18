@@ -8,11 +8,23 @@ Looking for something else? See the [Cultural events in the Zaanstad region](./c
 
 Koog aan de Zaan hosts a variety of cultural events throughout the year, fostering a vibrant community spirit and offering entertainment for all ages. Here are some of the regular events you can look forward to:
 
+### Foodfestival aan de Zaan
+- **Description:**  Over 80 food trucks and live music!
+- **Location:** [Zaanbocht, Wormerveer](https://www.google.com/maps/place/Zaanbocht,+Wormerveer/@52.4905559,4.793406,17z/data=!4m6!3m5!1s0x47c5fc71ba9fe891:0x2222cf256382b824!8m2!3d52.4905559!4d4.7950046!16s%2Fg%2F11cn35tr2p?entry=ttu)
+- **Frequency:** Annually in July
+- **More Info:** [Foodfestival aan de Zaan](https://www.facebook.com/FoodfestivalaandeZaan/)
+
+### Haltpop Alternative Pop Rock Festival
+- **Description:**  From Zaans talent to international acts, the stage offers a diverse line-up from alternative music genres such as ska, metal, punk and rock.
+- **Location:** [Topsportcentrum De Koog](https://www.sportbedrijfzaanstad.nl/sporthal/topsportcentrum-dekoog/)
+- **Frequency:** Annually in July
+- **More Info:** [Haltpop](https://www.haltpop.nl/en/index.html)
+
 ### Zaanse Schans Folk Festival
-- **Description:** A celebration of traditional music, dance, and crafts, featuring performances by local and international folk artists.
+- **Description:** A celebration of traditional crafts, dancing and music.
 - **Location:** [Zaanse Schans](https://www.dezaanseschans.nl/en/)
-- **Frequency:** Annually
-- **More Info:** [Zaanse Schans Folk Festival](https://www.dezaanseschans.nl/en/events/folk-festival/)
+- **Frequency:** Annually in August
+- **More Info:** [Zaanse Schans Folk Festival](https://www.folkloredag.nl/nl/)
 
 ### Zaans Museum Night
 - **Description:** An evening where local museums open their doors for special exhibitions, activities, and performances.

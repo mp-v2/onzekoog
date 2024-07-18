@@ -8,6 +8,7 @@ To watch these videos with english subtitles, do the following:
 
 ![View]({static}../images/captions_annotation.png)
 
+You can also do your own local tour, following a walking route by the [Historische Vereniging Koog-Zaandijk](https://www.historischeverenigingkoogzaandijk.nl/wandelroute-koog/koog_en.html) (Koog-Zaandijk Historical Association)
 
 
 ---
