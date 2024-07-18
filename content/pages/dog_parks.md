@@ -1,6 +1,10 @@
 Title: Dog Parks
 Date: 2024-06-26
 Category: Parks
+Lang: en
+Translation: false
+Slug: dog-parks
+Summary: Short version for index and feeds
 
 ## Dog Parks in Zaanstad
 
