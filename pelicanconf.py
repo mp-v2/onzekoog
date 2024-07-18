@@ -1,6 +1,6 @@
 AUTHOR = 'Morgan Plain'
 SITENAME = 'OnzeKoog'
-SITEURL = "www.onzekoog.nl"
+SITEURL = ""
 
 PATH = "content"
 #STATIC_PATHS = ['images']
