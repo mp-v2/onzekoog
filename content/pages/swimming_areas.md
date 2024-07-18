@@ -1,6 +1,10 @@
 Title: Swimming Areas
 Date: 2024-06-27 10:19
 Category: Information
+Summary: Where can you go swimming in Koog aan de Zaan?
+Slug: swimming-areas
+Lang: en
+Translation: false
 
 
 Zaanstad offers several public swimming areas where residents and visitors can enjoy swimming in natural and managed water bodies. 

@@ -1,7 +1,7 @@
 Title: Cultural Events in Zaanstad
 Date: 2024-06-26 12:26
 Category: Culture
-Summary: Cultural events happening in Zaanstad
+Summary: What cultural events happen in Zaanstad? Music festivals, food festivals, open-air concerts and more. 
 Slug: cultural-events-in-zaanstad
 Lang: en
 Translation: false

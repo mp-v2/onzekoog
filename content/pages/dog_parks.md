@@ -1,7 +1,7 @@
 Title: Dog Parks
 Date: 2024-06-26
 Category: Parks
-Summary: Short version for index and feeds
+Summary: Where are dog parks in Koog aan de Zaan? FInd here the dog walking map for Zaanstad.
 Slug: dog-parks
 Lang: en
 Translation: false

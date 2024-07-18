@@ -1,6 +1,11 @@
 Title: Playgrounds
 Date: 2024-06-26 12:56
 Category: Information
+Summary: What playgrounds are being redeveloped in Koog aan de Zaan? Find out where and when they are being improved.
+Slug: playgrounds
+Lang: en
+Translation: false
+
 
 Playgrounds in Koog aan de Zaan are being improved! [More Info](https://buitengewoon.zaanstad.nl/projecten/speelplekken)
 

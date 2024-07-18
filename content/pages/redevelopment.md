@@ -1,6 +1,11 @@
 Title: Redevelopment
 Date: 2024-06-26 12:26
 Category: Information
+Summary: What redevlopments are happening in Koog aan de Zaan? Greenification, social housing renewal, canal renovation, community gardens and more.
+Slug: redevelopment
+Lang: en
+Translation: false
+
 
 # Developments in Koog aan de Zaan
 See here about local developments.

@@ -1,7 +1,10 @@
 Title: Video Tour
 Date: 2024-06-26 12:26
 Category: Information
-
+Summary: A tour of Koog aan de Zaan is available virtually on this page. You can also find further materials for learning about Koog aan de Zaan.
+Slug: video-tour
+Lang: en
+Translation: false
 
 
 To watch these videos with english subtitles, do the following:
