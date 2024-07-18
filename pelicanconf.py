@@ -61,7 +61,10 @@ SEO_ENHANCER_OPEN_GRAPH = False # Subfeature of SEO enhancer
 SEO_ENHANCER_TWITTER_CARDS = False # Subfeature of SEO enhancer
 
 SEO_ARTICLES_LIMIT = 10
-SEO_PAGES_LIMIT = 10
+SEO_PAGES_LIMIT = 20
+
+#DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'sitemap']
+#SITEMAP_SAVE_AS = 'sitemap.xml'
 
 # Deadlink checker plugin
 # https://github.com/pelican-plugins/deadlinks
