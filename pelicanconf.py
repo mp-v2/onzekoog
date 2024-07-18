@@ -104,7 +104,7 @@ DEFAULT_PAGINATION = False
 
 # THEMES
 #default:
-THEME = "/Users/morganplain/Software/pelican/.venv/lib/python3.12/site-packages/pelican/themes/notmyidea"
-#THEME = "/Users/morganplain/Software/pelican/.venv/lib/python3.12/site-packages/pelican/themes/notmyidea2"
+#THEME = "/Users/morganplain/Software/pelican/.venv/lib/python3.12/site-packages/pelican/themes/notmyidea"
+THEME = "/Users/morganplain/Software/pelican/projects/onzekoog/themes/notmyidea2"
 #lowtechmagizine:
 #THEME = "/Users/morganplain/Software/pelican/.venv/lib/python3.12/site-packages/pelican/themes/solar"
