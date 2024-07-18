@@ -1,6 +1,9 @@
 AUTHOR = 'Morgan Plain'
 SITENAME = 'OnzeKoog'
-SITEURL = ""
+SITEURL = "www.onzekoog.nl"
+
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = False
 
 PATH = "content"
 #STATIC_PATHS = ['images']
@@ -105,6 +108,3 @@ THEME = "/Users/morganplain/Software/pelican/.venv/lib/python3.12/site-packages/
 #THEME = "/Users/morganplain/Software/pelican/.venv/lib/python3.12/site-packages/pelican/themes/notmyidea2"
 #lowtechmagizine:
 #THEME = "/Users/morganplain/Software/pelican/.venv/lib/python3.12/site-packages/pelican/themes/solar"
-
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
