@@ -1,7 +1,7 @@
 Title: History
 Date: 2024-05-31 13:58
 Category: History
-Description: WHat is the history of Koog aan de Zaan? A basic summary with links to further reading.
+Summary: WHat is the history of Koog aan de Zaan? A basic summary with links to further reading.
 Slug: history
 Lang: en
 Translation: false

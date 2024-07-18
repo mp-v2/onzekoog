@@ -1,7 +1,7 @@
 Title: Cultural Events in Zaanstad
 Date: 2024-06-26 12:26
 Category: Culture
-Description: Cultural events happening in Zaanstad
+Summary: Cultural events happening in Zaanstad
 Slug: cultural-events-in-zaanstad
 Lang: en
 Translation: false
