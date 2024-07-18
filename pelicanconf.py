@@ -1,6 +1,6 @@
 AUTHOR = 'Morgan Plain'
 SITENAME = 'OnzeKoog'
-SITEURL = ""
+SITEURL = "www.onzekoog.nl"
 
 PATH = "content"
 #STATIC_PATHS = ['images']
@@ -46,10 +46,17 @@ PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 
 
+PLUGIN_PATHS = ['plugins', 'solar-plugins']
+PLUGINS = [
+    'addressable_paragraphs', 'assets', 'neighbors', 'page_metadata', 'related_posts', 'representative_image',
+    'seo', 
+    #'deadlinks'
+    ]
+
 # SEO plugin
 # https://github.com/pelican-plugins/seo
 SEO_REPORT = True  # SEO report is enabled by default
-SEO_ENHANCER = True  # SEO enhancer is disabled by default
+SEO_ENHANCER = False  # SEO enhancer is disabled by default
 SEO_ENHANCER_OPEN_GRAPH = False # Subfeature of SEO enhancer
 SEO_ENHANCER_TWITTER_CARDS = False # Subfeature of SEO enhancer
 
@@ -85,13 +92,6 @@ LINKS = (
 #     ("You can add links in your config file", "#"),
 #     ("Another social link", "#"),
 # )
-
-PLUGIN_PATHS = ['plugins', 'solar-plugins']
-PLUGINS = [
-    'addressable_paragraphs', 'assets', 'neighbors', 'page_metadata', 'related_posts', 'representative_image',
-    #'seo', 
-    #'deadlinks'
-    ]
 
 
 DEFAULT_PAGINATION = False
