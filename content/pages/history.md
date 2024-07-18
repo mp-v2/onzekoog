@@ -34,8 +34,12 @@ Koog aan de Zaan had a comb structure until the end of the 19th century. There w
 At the beginning of the 20th century, the village was expanded with new working-class neighborhoods, especially south of Kogerhem. The old structure of the paths was built around, so that the ridge structure remained. The construction of the A8 motorway in the 20th century caused the structure of the long dike to be crossed.
 
 
-Read more Koog aan de Zaan history from:
+Read more:
 - [Historische Vereniging Koog-Zaandijk](https://www.historischeverenigingkoogzaandijk.nl/elementor/2022/09/01/historie-koog-a-d-zaan/) - Koog-Zaandijk Historical Association
 - [Zaan Wiki](https://www.zaanwiki.nl/encyclopedie/doku.php?id=koog&rev=1599693033)
 - [Koog aan de Zaan from DBNL.org](https://www.dbnl.org/tekst/sten009monu11_01/sten009monu11_01_0095.php)
+
+Watch more:
+- [Historische Vereniging Koog-Zaandijk Youtube](https://www.youtube.com/@historischeverenigingkoogz1672/featured)
+
 
