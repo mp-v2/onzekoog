@@ -52,3 +52,12 @@ A major upgrade is planned for a sports facility in Koog aan de Zaan, including 
 
 For more information on these and other developments in Koog aan de Zaan, visit the [Zaanstad Municipality website](https://buitengewoon.zaanstad.nl/).
 
+### Apartment complexes
+Various new apartment complexes are being built. This will bring additional people to the area and hopefully revitalise the shopping streets!
+
+- Aan de Molenwerf, Westerkoog [De Orkaan](https://www.deorkaan.nl/nieuwbouwproject-aan-de-molenwerf/)
+![View]({static}../images/Aan-de-Molenwerf-Westerkoog-impressie-website-aandemolenwerf.nl_.jpg)
+
+- Paltrokstraat, Zaandam [De Orkaan](https://www.deorkaan.nl/hier-wordt-gesloopt-paltrokstraat-zaandam/)
+![View]({static}../images/fkg-architecten-paltrok-impressie-exterieur-01.jpeg)
+
