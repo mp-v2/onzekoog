@@ -61,3 +61,5 @@ Various new apartment complexes are being built. This will bring additional peop
 - Paltrokstraat, Zaandam [De Orkaan](https://www.deorkaan.nl/hier-wordt-gesloopt-paltrokstraat-zaandam/)
 ![View]({static}../images/fkg-architecten-paltrok-impressie-exterieur-01.jpeg)
 
+- Verkadebuurt, between Zaandam and Koog aan de Zaan [De Orkaan](https://www.deorkaan.nl/hier-wordt-gebouwd-verkadebuurt/)
+![View]({static}../images/verkadebuurt.jpg)
